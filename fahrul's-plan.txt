@@ -5,5 +5,7 @@ RENCANA NGODING FAHRUL
 - JavaScript
   * ES6
   * Framework JavaScript
+    ^ Qwik
+    ^ Svelte
 - Reactjs
-- Struktur data dasar
+  ^ Angular
