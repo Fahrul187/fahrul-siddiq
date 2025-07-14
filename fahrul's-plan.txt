@@ -6,3 +6,4 @@ RENCANA NGODING FAHRUL
   * ES6
   * Framework JavaScript
 - Reactjs
+- Struktur data dasar
