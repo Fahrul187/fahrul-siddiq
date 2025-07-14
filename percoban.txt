@@ -16,6 +16,6 @@ LIST MEMBER JKT48 GENERASI 12
 - Trisha
 <html>
     <body>
-        <h1>kelasss</h1>
+        <h1>Kayaknya sih bisa yak?</h1>
     </body>
 </html>
