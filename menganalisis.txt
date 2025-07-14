@@ -1,6 +1,6 @@
 - membuat project untuk portofolio
 - membangun tim
-- bekerjasama untuk memecahkan masalah
 - membangun kepercayaan terhadap tim
-- menganalisis dengan rapi
 - membuat web sesuai permintaan client
+- masalah harus di selesaikan dengan kerjasama
+- kita harus menulis code dengan rapi
