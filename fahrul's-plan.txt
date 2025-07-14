@@ -11,3 +11,5 @@ RENCANA NGODING FAHRUL
   ^Angular
 - Struktur data dasar
 - Python
+- Aku pengen bisa PHP
+- Dan extentionnya yaitu laravel
