@@ -1,6 +1,0 @@
-- membuat project untuk portofolio
-- membangun tim
-- membangun kepercayaan terhadap tim
-- membuat web sesuai permintaan client
-- masalah harus di selesaikan dengan kerjasama
-- kita harus menulis code dengan rapi
