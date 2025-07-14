@@ -13,9 +13,9 @@ LIST MEMBER JKT48 GENERASI 12
 - Ribka
 - Fritzy
 - Regie
-- Trisha
+- Moreen
 <html>
     <body>
-        <h1>Kayaknya sih bisa yak?</h1>
+        <h1>Moreen kenapa kamu resign</h1>
     </body>
 </html>
