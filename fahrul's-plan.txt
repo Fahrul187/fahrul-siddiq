@@ -1,0 +1,8 @@
+RENCANA NGODING FAHRUL
+
+- Html
+- Css
+- JavaScript
+  * ES6
+  * Framework JavaScript
+- Reactjs
